@@ -22,10 +22,12 @@
         "pusher-js": "^7.0.3",
         "tailwindcss": "^3.0.15",
         "vue-loader": "^15.9.8",
-        "vue-template-compiler": "^2.6.14"
+        "vue-template-compiler": "^2.6.14",
+        "webpack-cli": "^4.9.2"
     },
     "dependencies": {
         "dotenv": "^14.2.0",
+        "dtoaster": "^0.1.4",
         "moment-timezone": "^0.5.34",
         "simple-peer": "^9.11.0",
         "v-calendar": "^2.3.4",
